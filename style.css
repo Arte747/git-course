@@ -1,0 +1,26 @@
+.item {
+	width: 100px;
+	width: 100px;
+	background: #ddd;
+	font-size: 50px;
+}
+
+.one .item {
+	display: none;
+}
+
+.two .item {
+	display: block;
+}
+
+.three .item {
+	display: inline-block;
+}
+
+.four .item {
+	display: flex;
+}
+
+.five .item {
+	display: grid;
+}
